@@ -1,0 +1,10 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+
+    "devDependencies": {
+      "oracledb": "^5.1.0",
+      "mssql": "^6.3.1",
+      "express": "^4.17.1"
+    }
+  }
